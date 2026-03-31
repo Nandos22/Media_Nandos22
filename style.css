@@ -17,7 +17,7 @@ body {
 /* Link colors */
 a {
     color: #DB304C; /* Link color */
-    text-decoration: none;
+    text-decoration: bold;
 }
 
 /* Changes text color and adds underline on mouse hover */
@@ -28,7 +28,7 @@ a:hover {
 
 /* Heading styles */
 h1 {
-    color: #DB8300; /* Heading color */
+    color: #DB942D; /* Heading color */
     font-size: 36px;
     margin: 24px 0 8px;
 }
